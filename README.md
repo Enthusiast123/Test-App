@@ -62,3 +62,4 @@ No build tools, bundlers, or server setups required!
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
